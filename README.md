@@ -55,7 +55,7 @@ One of the many advantages of PWAs is that they provide access to device service
 
 ![location in Innovator form](./Screenshots/pr-in-innovator.png)
 
-This feature is optional. The PWA will still work if you skip these setup steps - you just won't see the location map in your Aras PR form.
+This feature is optional. If you skip these setup steps, the PWA will still work - you just won't see the location map in your Aras PR form.
 
 #### Code Tree
 1. Backup your code tree and store the backup in a safe place.
